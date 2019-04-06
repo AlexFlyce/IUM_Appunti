@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1554563822 "ium.tex" "ium.pdf" "ium" 1554563824
+["pdflatex"] 1554566291 "ium.tex" "ium.pdf" "ium" 1554566294
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -124,13 +124,13 @@
   "images/toolbar.png" 1454521636 62754 13386b71412a92a309312b4dbf80258b ""
   "images/varieBariPhone.png" 1454517623 176340 eb24b9ea4cc8c87c729e0787244bdcb1 ""
   "images/worms.png" 1454417684 194581 ef3c5e014034df8336b94828e1e654aa ""
-  "ium.aux" 1554563824 16636 567c5a71a9ae7b2cff060426e3efe715 ""
-  "ium.out" 1554563824 4090 87b7b618fcf71d3b06a1153547cbf08d ""
-  "ium.tex" 1554563820 93356 867261d29c8403373fcdb298712e86a0 ""
-  "ium.toc" 1554563824 7999 9aedaee67b02ae7de607fc428fe2d3c9 ""
+  "ium.aux" 1554566293 16636 567c5a71a9ae7b2cff060426e3efe715 ""
+  "ium.out" 1554566293 4090 87b7b618fcf71d3b06a1153547cbf08d ""
+  "ium.tex" 1554566290 93291 f53798fe607aa5e56ab2f6430ae8f0d5 ""
+  "ium.toc" 1554566293 7999 9aedaee67b02ae7de607fc428fe2d3c9 ""
   (generated)
   "ium.aux"
   "ium.pdf"
+  "ium.toc"
   "ium.out"
   "ium.log"
-  "ium.toc"
