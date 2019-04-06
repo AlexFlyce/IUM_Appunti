@@ -1,0 +1,60 @@
+\BOOKMARK [0][-]{chapter.1}{Tecniche di Valutazione}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Valutazione con Participazione Utente}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Laboratorio}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Campo}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Metodi di osservazione}{section.1.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Valutazione Dell'implementazione}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.2.1}{Valutazioni Sperimentali}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.2}{Fattori sperimentali}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.3}{Design Sperimentale}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Expert Based}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{Cognitive Walkthrough}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.2}{Heuristic Evaluation}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.3}{Review Based Evaluation}{section.1.3}% 13
+\BOOKMARK [0][-]{chapter.2}{Progetto e sviluppo di sistemi Interattivi}{}% 14
+\BOOKMARK [1][-]{section.2.1}{Modello a Cascata}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.2}{Modello Agile}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.1}{UCD: User-Centered Design}{section.2.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.2}{Agile UCD}{section.2.2}% 18
+\BOOKMARK [1][-]{section.2.3}{Needfinding}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.3.1}{Osservazione}{section.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.3.2}{Mettersi nei panni dell'utente}{section.2.3}% 21
+\BOOKMARK [2][-]{subsection.2.3.3}{Interviste}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.4}{Questionari}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.5}{Esercitazione needfinding}{section.2.3}% 24
+\BOOKMARK [1][-]{section.2.4}{prototyping}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.4.1}{Storyboarding}{section.2.4}% 26
+\BOOKMARK [2][-]{subsection.2.4.2}{Paper Prototyping}{section.2.4}% 27
+\BOOKMARK [2][-]{subsection.2.4.3}{Esercitazione Paper Prototyping}{section.2.4}% 28
+\BOOKMARK [0][-]{chapter.3}{Luogo Dell'Attenzione \046 Modi}{}% 29
+\BOOKMARK [1][-]{section.3.1}{Luogo Dell'attenzione}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.1.1}{Abitudine}{section.3.1}% 31
+\BOOKMARK [2][-]{subsection.3.1.2}{Concentrazione E Interfacce}{section.3.1}% 32
+\BOOKMARK [1][-]{section.3.2}{Modi}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.2.1}{Gesture}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.2}{Interfaccia modale}{section.3.2}% 35
+\BOOKMARK [2][-]{subsection.3.2.3}{Noun-Verb / Verb-Noun}{section.3.2}% 36
+\BOOKMARK [0][-]{chapter.4}{Mobile}{}% 37
+\BOOKMARK [1][-]{section.4.1}{Progetto Di Applicazioni Mobili Interattive}{chapter.4}% 38
+\BOOKMARK [2][-]{subsection.4.1.1}{Contesto d'uso}{section.4.1}% 39
+\BOOKMARK [2][-]{subsection.4.1.2}{Differenze Rispetto Al Desktop}{section.4.1}% 40
+\BOOKMARK [2][-]{subsection.4.1.3}{Stili di applicazioni}{section.4.1}% 41
+\BOOKMARK [2][-]{subsection.4.1.4}{Principi Per Le Interfacce Mobili}{section.4.1}% 42
+\BOOKMARK [1][-]{section.4.2}{Android}{chapter.4}% 43
+\BOOKMARK [2][-]{subsection.4.2.1}{Concetti Base}{section.4.2}% 44
+\BOOKMARK [2][-]{subsection.4.2.2}{Metafora}{section.4.2}% 45
+\BOOKMARK [2][-]{subsection.4.2.3}{Discoverability}{section.4.2}% 46
+\BOOKMARK [2][-]{subsection.4.2.4}{Action And Reaction}{section.4.2}% 47
+\BOOKMARK [2][-]{subsection.4.2.5}{Users in Control}{section.4.2}% 48
+\BOOKMARK [2][-]{subsection.4.2.6}{Customize}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.7}{Consistency}{section.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.2.8}{Material Design}{section.4.2}% 51
+\BOOKMARK [1][-]{section.4.3}{iOS}{chapter.4}% 52
+\BOOKMARK [2][-]{subsection.4.3.1}{Navigation Bar}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.2}{Status Bar}{section.4.3}% 54
+\BOOKMARK [2][-]{subsection.4.3.3}{Tab Bar}{section.4.3}% 55
+\BOOKMARK [2][-]{subsection.4.3.4}{Toolbar}{section.4.3}% 56
+\BOOKMARK [2][-]{subsection.4.3.5}{Alert, Action Sheet e Modal View}{section.4.3}% 57
+\BOOKMARK [2][-]{subsection.4.3.6}{Table View}{section.4.3}% 58
+\BOOKMARK [0][-]{chapter.5}{Domande Esame}{}% 59
+\BOOKMARK [0][-]{chapter.6}{Conclusione}{}% 60
